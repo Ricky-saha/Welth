@@ -71,7 +71,7 @@ Welth is a comprehensive financial management platform designed to help users tr
 
 ## Demo Video
 ### Check out our application demo video:
-[ Google Drive Link - ][https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/17i--50dkmBIP8Eyh-hk_KrywEbG_D7xE/view?usp=sharing)
+[Google Drive Link](https://drive.google.com/file/d/17i--50dkmBIP8Eyh-hk_KrywEbG_D7xE/view?usp=sharing)
 ## Getting Started
 
 ### Installation
