@@ -3,7 +3,8 @@ import "./globals.css";
 import Header from "@/components/header";
 import { ClerkProvider, SignedIn, SignedOut, SignInButton, SignUpButton, UserButton } from "@clerk/nextjs";
 import { Toaster } from 'sonner'
-const inter =Inter({subset:['latin']})
+
+const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Welth",
   description: "one Stop Finance Platform",
